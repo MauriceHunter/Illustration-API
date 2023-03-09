@@ -1,0 +1,1054 @@
+{
+    "Magazine": [
+        {
+            "title": "ILLUSTRATION 2022",
+            "coverArtist": "COTOH Tsumi",
+            "coverStandard": "https://illustrationseries.s3.amazonaws.com/illustration2022/Covers/Covers/ILST+2022+Standard+Cover.jpg",
+            "coverSpecial": "https://illustrationseries.s3.amazonaws.com/illustration2022/Covers/Covers/ILST+2022+Special+Edition+Cover.jpg",
+            "Artist": [
+                {
+                    "id": 1,
+                    "name": "AIAMU",
+                    "twitter": "https://twitter.com/iamuu_n",
+                    "instagram": "https://www.instagram.com/iamuu_n/",
+                    "website": "https://potofu.me/iamuu-n",
+                    "email": "iamuu.n28@gmail.com",
+                    "profilePic": "https://illustrationseries.s3.amazonaws.com/illustration2022/Artist/01+-+AIAMU/AIAMU+-+profile+pic.jpg",
+                    "tool": [
+                        {
+                            "name": "CLIP STUDIO PAINT PRO"
+                        },
+                        {
+                            "name": "iPad Pro"
+                        }
+                    ],
+                    "media": [
+                        {
+                            "name": "AIAMU1",
+                            "position": 1,
+                            "url": "https://illustrationseries.s3.amazonaws.com/illustration2022/Artist/01+-+AIAMU/AIAMU+-+01.jpg"
+                        },
+                        {
+                            "name": "AIAMU2",
+                            "position": 2,
+                            "url": "https://illustrationseries.s3.amazonaws.com/illustration2022/Artist/01+-+AIAMU/AIAMU+-+02.jpg"
+                        },
+                        {
+                            "name": "AIAMU3",
+                            "position": 3,
+                            "url": "https://illustrationseries.s3.amazonaws.com/illustration2022/Artist/01+-+AIAMU/AIAMU+-+03.jpg"
+                        },
+                        {
+                            "name": "AIAMU4",
+                            "position": 4,
+                            "url": "https://illustrationseries.s3.amazonaws.com/illustration2022/Artist/01+-+AIAMU/AIAMU+-+04.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "name": "AOKI Kouri",
+                    "twitter": "https://twitter.com/kouri_aoki",
+                    "instagram": "https://www.instagram.com/kouri_aoki/",
+                    "website": "https://kouri-aoki.jimdo.com/",
+                    "email": "kouriaoki@gmail.com",
+                    "profilePic": "https://illustrationseries.s3.amazonaws.com/illustration2022/Artist/02+-+AOKI+Kouri/AOKI+-+profile+pic.jpg",
+                    "tool": [
+                        {
+                            "name": "Procreate"
+                        },
+                        {
+                            "name": "CLIP STUDIO PAINT PRO"
+                        },
+                        {
+                            "name": "iPad Pro"
+                        }
+                    ],
+                    "media": [
+                        {
+                            "name": "AOKI1",
+                            "position": 1,
+                            "url": "https://illustrationseries.s3.amazonaws.com/illustration2022/Artist/02+-+AOKI+Kouri/AOKI+-+01.jpg"
+                        },
+                        {
+                            "name": "AOKI2",
+                            "position": 2,
+                            "url": "https://illustrationseries.s3.amazonaws.com/illustration2022/Artist/02+-+AOKI+Kouri/AOKI+-+02.jpg"
+                        },
+                        {
+                            "name": "AOKI3",
+                            "position": 3,
+                            "url": "https://illustrationseries.s3.amazonaws.com/illustration2022/Artist/02+-+AOKI+Kouri/AOKI+-+03.jpg"
+                        },
+                        {
+                            "name": "AOKI4",
+                            "position": 4,
+                            "url": "https://illustrationseries.s3.amazonaws.com/illustration2022/Artist/02+-+AOKI+Kouri/AOKI+-+04.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "name": "AONO Izu",
+                    "twitter": "https://twitter.com/aonoizu",
+                    "instagram": "https://www.instagram.com/aonoizu/",
+                    "website": null,
+                    "email": "aonoizu@gmail.com",
+                    "profilePic": "https://illustrationseries.s3.amazonaws.com/illustration2022/Artist/03+-+AONO+Izu/AONO+-+profile+pic.jpg",
+                    "tool": [
+                        {
+                            "name": "Procreate"
+                        },
+                        {
+                            "name": "Photoshop CC"
+                        },
+                        {
+                            "name": "iPad Pro"
+                        }
+                    ],
+                    "media": [
+                        {
+                            "name": "AONO1",
+                            "position": 1,
+                            "url": "https://illustrationseries.s3.amazonaws.com/illustration2022/Artist/03+-+AONO+Izu/AONO+-+01.jpg"
+                        },
+                        {
+                            "name": "AONO2",
+                            "position": 2,
+                            "url": "https://illustrationseries.s3.amazonaws.com/illustration2022/Artist/03+-+AONO+Izu/AONO+-+02.jpg"
+                        },
+                        {
+                            "name": "AONO3",
+                            "position": 3,
+                            "url": "https://illustrationseries.s3.amazonaws.com/illustration2022/Artist/03+-+AONO+Izu/AONO+-+03.jpg"
+                        },
+                        {
+                            "name": "AONO4",
+                            "position": 4,
+                            "url": "https://illustrationseries.s3.amazonaws.com/illustration2022/Artist/03+-+AONO+Izu/AONO+-+04.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "name": "AKIOKA",
+                    "twitter": "https://mobile.twitter.com/akioka5311",
+                    "instagram": "https://www.instagram.com/akioka.5311/",
+                    "website": null,
+                    "email": "akioka1513@gmail.com",
+                    "profilePic": "https://illustrationseries.s3.amazonaws.com/illustration2022/Artist/04+-+AKIOKA/AKIOKA+-+profile+pic.jpg",
+                    "tool": [
+                        {
+                            "name": "CLIP STUDIO PAINT PRO"
+                        },
+                        {
+                            "name": "Photoshop CC"
+                        },
+                        {
+                            "name": "iPad Pro"
+                        }
+                    ],
+                    "media": [
+                        {
+                            "name": "AKIOKA1",
+                            "position": 1,
+                            "url": "https://illustrationseries.s3.amazonaws.com/illustration2022/Artist/04+-+AKIOKA/AKIOKA+-+01.jpg"
+                        },
+                        {
+                            "name": "AKIOKA2",
+                            "position": 2,
+                            "url": "https://illustrationseries.s3.amazonaws.com/illustration2022/Artist/04+-+AKIOKA/AKIOKA+-+02.jpg"
+                        },
+                        {
+                            "name": "AKIOKA3",
+                            "position": 3,
+                            "url": "https://illustrationseries.s3.amazonaws.com/illustration2022/Artist/04+-+AKIOKA/AKIOKA+-+03.jpg"
+                        },
+                        {
+                            "name": "AKIOKA4",
+                            "position": 4,
+                            "url": "https://illustrationseries.s3.amazonaws.com/illustration2022/Artist/04+-+AKIOKA/AKIOKA+-+04.jpg"
+                        },
+                        {
+                            "name": "AKIOKA5",
+                            "position": 5,
+                            "url": "https://illustrationseries.s3.amazonaws.com/illustration2022/Artist/04+-+AKIOKA/AKIOKA+-+05.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "name": "ASHIYA Maki",
+                    "twitter": "https://twitter.com/a0z0o0",
+                    "instagram": "https://www.instagram.com/p0azo0q/",
+                    "website": null,
+                    "email": "ashiyama.ki14@gmail.com",
+                    "profilePic": "https://illustrationseries.s3.amazonaws.com/illustration2022/Artist/05+-+ASHIYA+Maki/ASHIYA+-+profile+pic.jpg",
+                    "tool": [
+                        {
+                            "name": null
+                        }
+                    ],
+                    "media": [
+                        {
+                            "name": "ASHIYA1",
+                            "position": 1,
+                            "url": "https://illustrationseries.s3.amazonaws.com/illustration2022/Artist/05+-+ASHIYA+Maki/ASHIYA+-+01.png"
+                        },
+                        {
+                            "name": "ASHIYA2",
+                            "position": 2,
+                            "url": "https://illustrationseries.s3.amazonaws.com/illustration2022/Artist/05+-+ASHIYA+Maki/ASHIYA+-+02.png"
+                        },
+                        {
+                            "name": "ASHIYA3",
+                            "position": 3,
+                            "url": "https://illustrationseries.s3.amazonaws.com/illustration2022/Artist/05+-+ASHIYA+Maki/ASHIYA+-+03.png"
+                        },
+                        {
+                            "name": "ASHIYA4",
+                            "position": 4,
+                            "url": "https://illustrationseries.s3.amazonaws.com/illustration2022/Artist/05+-+ASHIYA+Maki/ASHIYA+-+04.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 6,
+                    "name": "ADABANA Bloom",
+                    "twitter": "https://twitter.com/adbnbloom",
+                    "instagram": "https://www.instagram.com/adbn_blooming/",
+                    "website": null,
+                    "email": "adbnbloom@gmail.com",
+                    "profilePic": "https://illustrationseries.s3.amazonaws.com/illustration2022/Artist/06+-+ADABANA+Bloom/ADABANA+-+profile+pic.jpg",
+                    "tool": [
+                        {
+                            "name": "Photoshop CC"
+                        },
+                        {
+                            "name": "Intuos Pro"
+                        }
+                    ],
+                    "media": [
+                        {
+                            "name": "ADABANA1",
+                            "position": 1,
+                            "url": "https://illustrationseries.s3.amazonaws.com/illustration2022/Artist/06+-+ADABANA+Bloom/ADABANA+01.jpg"
+                        },
+                        {
+                            "name": "ADABANA2",
+                            "position": 2,
+                            "url": "https://illustrationseries.s3.amazonaws.com/illustration2022/Artist/06+-+ADABANA+Bloom/ADABANA+02.jpg"
+                        },
+                        {
+                            "name": "ADABANA3",
+                            "position": 3,
+                            "url": "https://illustrationseries.s3.amazonaws.com/illustration2022/Artist/06+-+ADABANA+Bloom/ADABANA+Alt+03.jpg"
+                        },
+                        {
+                            "name": "ADABANA4",
+                            "position": 4,
+                            "url": "https://illustrationseries.s3.amazonaws.com/illustration2022/Artist/06+-+ADABANA+Bloom/ADABANA+04.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 7,
+                    "name": "Acky Bright",
+                    "twitter": "https://twitter.com/aki001208",
+                    "instagram": "https://www.instagram.com/acky_bright/",
+                    "website": "https://www.acky-bright.com/",
+                    "email": "xlvlv3@gmail.com",
+                    "profilePic": "https://illustrationseries.s3.amazonaws.com/illustration2022/Artist/07+-+Acky+Bright/Acky+Bright+-+profile+pic.jpg",
+                    "tool": [
+                        {
+                            "name": "Procreate"
+                        },
+                        {
+                            "name": "CLIP STUDIO PAINT PRO"
+                        },
+                        {
+                            "name": "iPad Pro"
+                        },
+                        {
+                            "name": "Cintiq 24HD"
+                        }
+                    ],
+                    "media": [
+                        {
+                            "name": "ACKY1",
+                            "position": 1,
+                            "url": "https://illustrationseries.s3.amazonaws.com/illustration2022/Artist/07+-+Acky+Bright/Acky+Bright+Sub+-+01.jpg"
+                        },
+                        {
+                            "name": "ACKY2",
+                            "position": 2,
+                            "url": "https://illustrationseries.s3.amazonaws.com/illustration2022/Artist/07+-+Acky+Bright/Acky+Bright+Sub+-+02.jpg"
+                        },
+                        {
+                            "name": "ACKY3",
+                            "position": 3,
+                            "url": "https://illustrationseries.s3.amazonaws.com/illustration2022/Artist/07+-+Acky+Bright/Acky+Bright+-+03.jpg"
+                        },
+                        {
+                            "name": "ACKY4",
+                            "position": 4,
+                            "url": "https://illustrationseries.s3.amazonaws.com/illustration2022/Artist/07+-+Acky+Bright/Acky+Bright+-+04.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 8,
+                    "name": "an",
+                    "twitter": "https://twitter.com/aoxxxxxao",
+                    "instagram": "https://www.instagram.com/aooooo1995/",
+                    "website": null,
+                    "email": "anmitsuxxxxx@yahoo.co.jp",
+                    "profilePic": "https://illustrationseries.s3.amazonaws.com/illustration2022/Artist/08+-+an/an+-+profile+pic.jpg",
+                    "tool": [
+                        {
+                            "name": "CLIP STUDIO PAINT PRO"
+                        },
+                        {
+                            "name": "Illustrator CC"
+                        },
+                        {
+                            "name": "iPad Pro"
+                        }
+                    ],
+                    "media": [
+                        {
+                            "name": "an1",
+                            "position": 1,
+                            "url": "https://illustrationseries.s3.amazonaws.com/illustration2022/Artist/08+-+an/an+-+01.jpg"
+                        },
+                        {
+                            "name": "an2",
+                            "position": 2,
+                            "url": "https://illustrationseries.s3.amazonaws.com/illustration2022/Artist/08+-+an/an+-+02.jpg"
+                        },
+                        {
+                            "name": "an3",
+                            "position": 3,
+                            "url": "https://illustrationseries.s3.amazonaws.com/illustration2022/Artist/08+-+an/an+-+03.jpg"
+                        },
+                        {
+                            "name": "an4",
+                            "position": 4,
+                            "url": "https://illustrationseries.s3.amazonaws.com/illustration2022/Artist/08+-+an/an+-+04.jpg"
+                        },
+                        {
+                            "name": "an5",
+                            "position": 5,
+                            "url": "https://illustrationseries.s3.amazonaws.com/illustration2022/Artist/08+-+an/an+-+05.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 9,
+                    "name": "UNNONE",
+                    "twitter": "https://twitter.com/un_nooone",
+                    "instagram": "https://www.instagram.com/un_nooone/",
+                    "website": "https://unnone.myportfolio.com/",
+                    "email": "info.unnone@gmail.com",
+                    "profilePic": "https://illustrationseries.s3.amazonaws.com/illustration2022/Artist/09+-+UNNONE/UNNONE+-+profile+pic.jpg",
+                    "tool": [
+                        {
+                            "name": "Procreate"
+                        },
+                        {
+                            "name": "Photoshop CC"
+                        },
+                        {
+                            "name": "iPad Pro"
+                        }
+                    ],
+                    "media": [
+                        {
+                            "name": "UNNONE1",
+                            "position": 1,
+                            "url": "https://illustrationseries.s3.amazonaws.com/illustration2022/Artist/09+-+UNNONE/UNNONE+-+01.jpg"
+                        },
+                        {
+                            "name": "UNNONE2",
+                            "position": 2,
+                            "url": "https://illustrationseries.s3.amazonaws.com/illustration2022/Artist/09+-+UNNONE/UNNONE+-+02.jpg"
+                        },
+                        {
+                            "name": "UNNONE3",
+                            "position": 3,
+                            "url": "https://illustrationseries.s3.amazonaws.com/illustration2022/Artist/09+-+UNNONE/UNNONE+-+03.jpg"
+                        },
+                        {
+                            "name": "UNNONE4",
+                            "position": 4,
+                            "url": "https://illustrationseries.s3.amazonaws.com/illustration2022/Artist/09+-+UNNONE/UNNONE+-+04.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 10,
+                    "name": "ikik IKUIKU",
+                    "twitter": "https://twitter.com/ikik_193",
+                    "instagram": "https://www.instagram.com/ikik_1919/",
+                    "website": null,
+                    "email": "ikik1919go@gmail.com",
+                    "profilePic": "https://illustrationseries.s3.amazonaws.com/illustration2022/Artist/10+-+ikik+IKUIKU/ikik+IKUIKU+-+profile+pic.jpg",
+                    "tool": [
+                        {
+                            "name": "CLIP STUDIO PAINT PRO"
+                        },
+                        {
+                            "name": "Photoshop CC"
+                        },
+                        {
+                            "name": "iPad Pro"
+                        }
+                    ],
+                    "media": [
+                        {
+                            "name": "ikik1",
+                            "position": 1,
+                            "url": "https://illustrationseries.s3.amazonaws.com/illustration2022/Artist/10+-+ikik+IKUIKU/ikik+IKUIKU+-+01.jpg"
+                        },
+                        {
+                            "name": "ikik2",
+                            "position": 2,
+                            "url": "https://illustrationseries.s3.amazonaws.com/illustration2022/Artist/10+-+ikik+IKUIKU/ikik+IKUIKU+-+02.jpg"
+                        },
+                        {
+                            "name": "ikik3",
+                            "position": 3,
+                            "url": "https://illustrationseries.s3.amazonaws.com/illustration2022/Artist/10+-+ikik+IKUIKU/ikik+IKUIKU+-+03.jpg"
+                        },
+                        {
+                            "name": "ikik4",
+                            "position": 4,
+                            "url": "https://illustrationseries.s3.amazonaws.com/illustration2022/Artist/10+-+ikik+IKUIKU/ikik+IKUIKU+-+04.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 11,
+                    "name": "IKEGAMI Koki",
+                    "twitter": "https://twitter.com/winter_parasol",
+                    "instagram": null,
+                    "website": null,
+                    "email": "winterparasol1995@gmail.com",
+                    "profilePic": "https://illustrationseries.s3.amazonaws.com/illustration2022/Artist/11+-+IKEGAMI+Koki/IKEGAMI+Koki+-+profile+pic.jpg",
+                    "tool": [
+                        {
+                            "name": "CLIP STUDIO PAINT PRO"
+                        },
+                        {
+                            "name": "Intuos Small"
+                        }
+                    ],
+                    "media": [
+                        {
+                            "name": "IKEGAMI1",
+                            "position": 1,
+                            "url": "https://illustrationseries.s3.amazonaws.com/illustration2022/Artist/11+-+IKEGAMI+Koki/IKEGAMI+Koki+-+01.jpg"
+                        },
+                        {
+                            "name": "IKEGAMI2",
+                            "position": 2,
+                            "url": "https://illustrationseries.s3.amazonaws.com/illustration2022/Artist/11+-+IKEGAMI+Koki/IKEGAMI+Koki+-+02.jpg"
+                        },
+                        {
+                            "name": "IKEGAMI3",
+                            "position": 3,
+                            "url": "https://illustrationseries.s3.amazonaws.com/illustration2022/Artist/11+-+IKEGAMI+Koki/IKEGAMI+Koki+-+03.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 12,
+                    "name": "IKEDA Saki",
+                    "twitter": "https://twitter.com/_sakikeda",
+                    "instagram": "https://www.instagram.com/sakikeda_/",
+                    "website": "http://sakikeda.com",
+                    "email": "info@sakikeda.com",
+                    "profilePic": "https://illustrationseries.s3.amazonaws.com/illustration2022/Artist/12+-+IKEDA+Saki/IKEDA+Saki+-+profile+pic.png",
+                    "tool": [
+                        {
+                            "name": "Photoshop CC"
+                        },
+                        {
+                            "name": ""
+                        },
+                        {
+                            "name": ""
+                        },
+                        {
+                            "name": ""
+                        }
+                    ],
+                    "media": [
+                        {
+                            "name": "IKEDA1",
+                            "position": 1,
+                            "url": "https://illustrationseries.s3.amazonaws.com/illustration2022/Artist/12+-+IKEDA+Saki/IKEDA+Saki+sub+-+01.jpg"
+                        },
+                        {
+                            "name": "IKEDA2",
+                            "position": 2,
+                            "url": "https://illustrationseries.s3.amazonaws.com/illustration2022/Artist/12+-+IKEDA+Saki/IKEDA+Saki+-+02.jpg"
+                        },
+                        {
+                            "name": "IKEDA3",
+                            "position": 3,
+                            "url": "https://illustrationseries.s3.amazonaws.com/illustration2022/Artist/12+-+IKEDA+Saki/IKEDA+Saki+-+03.jpg"
+                        },
+                        {
+                            "name": "IKEDA4",
+                            "position": 4,
+                            "url": "https://illustrationseries.s3.amazonaws.com/illustration2022/Artist/12+-+IKEDA+Saki/IKEDA+Saki+-+04.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 13,
+                    "name": "ICHIGOAME",
+                    "twitter": "https://twitter.com/ichigoame1125",
+                    "instagram": "https://www.instagram.com/ichigoame1234/",
+                    "website": null,
+                    "email": "ichigoame1125@gmail.com",
+                    "profilePic": "https://illustrationseries.s3.amazonaws.com/illustration2022/Artist/13+-+ICHIGOAME/ICHIGOAME+-+profile+pic.jpg",
+                    "tool": [
+                        {
+                            "name": "CLIP STUDIO PAINT PRO"
+                        },
+                        {
+                            "name": "iPad Pro"
+                        }
+                    ],
+                    "media": [
+                        {
+                            "name": "ICHIGOAME1",
+                            "position": 1,
+                            "url": "https://illustrationseries.s3.amazonaws.com/illustration2022/Artist/13+-+ICHIGOAME/ICHIGOAME+-+01.jpg"
+                        },
+                        {
+                            "name": "ICHIGOAME2",
+                            "position": 2,
+                            "url": "https://illustrationseries.s3.amazonaws.com/illustration2022/Artist/13+-+ICHIGOAME/ICHIGOAME+-+02.jpg"
+                        },
+                        {
+                            "name": "ICHIGOAME3",
+                            "position": 3,
+                            "url": "https://illustrationseries.s3.amazonaws.com/illustration2022/Artist/13+-+ICHIGOAME/ICHIGOAME+-+03.jpg"
+                        },
+                        {
+                            "name": "ICHIGOAME4",
+                            "position": 4,
+                            "url": "https://illustrationseries.s3.amazonaws.com/illustration2022/Artist/13+-+ICHIGOAME/ICHIGOAME+-+04.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 14,
+                    "name": "WOOMA",
+                    "twitter": "https://twitter.com/tomapocpo",
+                    "instagram": "https://www.instagram.com/wo_ma.1109/",
+                    "website": null,
+                    "email": "rainwonder17@gmail.com",
+                    "profilePic": "https://illustrationseries.s3.amazonaws.com/illustration2022/Artist/14+-+WOOMA/WOOMA+-+profile+pic.jpg",
+                    "tool": [
+                        {
+                            "name": "CLIP STUDIO PAINT PRO"
+                        },
+                        {
+                            "name": "iPad Pro"
+                        }
+                    ],
+                    "media": [
+                        {
+                            "name": "WOOMA1",
+                            "position": 1,
+                            "url": "https://illustrationseries.s3.amazonaws.com/illustration2022/Artist/14+-+WOOMA/WOOMA+-+01.jpg"
+                        },
+                        {
+                            "name": "WOOMA2",
+                            "position": 2,
+                            "url": "https://illustrationseries.s3.amazonaws.com/illustration2022/Artist/14+-+WOOMA/WOOMA+-+02.jpg"
+                        },
+                        {
+                            "name": "WOOMA3",
+                            "position": 3,
+                            "url": "https://illustrationseries.s3.amazonaws.com/illustration2022/Artist/14+-+WOOMA/WOOMA+-+03.jpg"
+                        },
+                        {
+                            "name": "WOOMA4",
+                            "position": 4,
+                            "url": "https://illustrationseries.s3.amazonaws.com/illustration2022/Artist/14+-+WOOMA/WOOMA+Sub+-+04.jpg"
+                        },
+                        {
+                            "name": "WOOMA4",
+                            "position": 4,
+                            "url": "https://illustrationseries.s3.amazonaws.com/illustration2022/Artist/14+-+WOOMA/WOOMA+Sub+-+05.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 15,
+                    "name": "USUKUSHI",
+                    "twitter": "https://twitter.com/liliy_art",
+                    "instagram": "https://www.instagram.com/usukuchi0500/",
+                    "website": "",
+                    "email": "usukuchi.work0500@gmail.com",
+                    "profilePic": "https://illustrationseries.s3.amazonaws.com/illustration2022/Artist/15+-+USUKUCHI/USUKUSHI+-+profile+pic.jpg",
+                    "tool": [
+                        {
+                            "name": "Procreate"
+                        },
+                        {
+                            "name": "Photoshop CC"
+                        },
+                        {
+                            "name": "Painter 2018"
+                        },
+                        {
+                            "name": "iPad Pro"
+                        },
+                        {
+                            "name": "Cintiq 22HD"
+                        }
+                    ],
+                    "media": [
+                        {
+                            "name": "USUKUSHI1",
+                            "position": 1,
+                            "url": "https://illustrationseries.s3.amazonaws.com/illustration2022/Artist/15+-+USUKUCHI/USUKUSHI+-+01.jpg"
+                        },
+                        {
+                            "name": "USUKUSHI2",
+                            "position": 2,
+                            "url": "https://illustrationseries.s3.amazonaws.com/illustration2022/Artist/15+-+USUKUCHI/USUKUSHI+-+02.jpg"
+                        },
+                        {
+                            "name": "USUKUSHI3",
+                            "position": 3,
+                            "url": "https://illustrationseries.s3.amazonaws.com/illustration2022/Artist/15+-+USUKUCHI/USUKUSHI+-+03.jpg"
+                        },
+                        {
+                            "name": "USUKUSHI4",
+                            "position": 4,
+                            "url": "https://illustrationseries.s3.amazonaws.com/illustration2022/Artist/15+-+USUKUCHI/USUKUSHI+-+04.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 16,
+                    "name": "UTAHA",
+                    "twitter": "https://twitter.com/utaha_uta",
+                    "instagram": "https://www.instagram.com/utaha_uta/",
+                    "website": null,
+                    "email": "utahauta20@gmail.com",
+                    "profilePic": "https://illustrationseries.s3.amazonaws.com/illustration2022/Artist/16+-+UTAHA/UTAHA+-+profile+pic.jpg",
+                    "tool": [
+                        {
+                            "name": "CLIP STUDIO PAINT PRO"
+                        },
+                        {
+                            "name": "iPad Pro"
+                        },
+                        {
+                            "name": "Cintiq 16"
+                        }
+                    ],
+                    "media": [
+                        {
+                            "name": "UTAHA1",
+                            "position": 1,
+                            "url": "https://illustrationseries.s3.amazonaws.com/illustration2022/Artist/16+-+UTAHA/UTAHA+-+01.jpg"
+                        },
+                        {
+                            "name": "UTAHA2",
+                            "position": 2,
+                            "url": "https://illustrationseries.s3.amazonaws.com/illustration2022/Artist/16+-+UTAHA/UTAHA+-+02.jpg"
+                        },
+                        {
+                            "name": "UTAHA3",
+                            "position": 3,
+                            "url": "https://illustrationseries.s3.amazonaws.com/illustration2022/Artist/16+-+UTAHA/UTAHA+-+03.jpg"
+                        },
+                        {
+                            "name": "UTAHA4",
+                            "position": 4,
+                            "url": "https://illustrationseries.s3.amazonaws.com/illustration2022/Artist/16+-+UTAHA/UTAHA+-+04.jpg"
+                        },
+                        {
+                            "name": "UTAHA5",
+                            "position": 5,
+                            "url": "https://illustrationseries.s3.amazonaws.com/illustration2022/Artist/16+-+UTAHA/UTAHA+-+05.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 17,
+                    "name": "AI Rinna",
+                    "twitter": "https://twitter.com/ms_rinna",
+                    "instagram": "https://www.instagram.com/rinna.abstract/",
+                    "website": "https://rinna.co.jp/",
+                    "email": "rinnaKKpr@rinna.co.jp",
+                    "profilePic": "https://illustrationseries.s3.amazonaws.com/illustration2022/Artist/17+-+AI+Rinna/Rinna+-+profile+pic.jpg",
+                    "tool": [
+                        {
+                            "name": "GAN"
+                        },
+                        {
+                            "name": ""
+                        },
+                        {
+                            "name": ""
+                        },
+                        {
+                            "name": ""
+                        }
+                    ],
+                    "media": [
+                        {
+                            "name": "Rinna1",
+                            "position": 1,
+                            "url": "https://illustrationseries.s3.amazonaws.com/illustration2022/Artist/17+-+AI+Rinna/Rinna+-+01.jpg"
+                        },
+                        {
+                            "name": "Rinna2",
+                            "position": 2,
+                            "url": "https://illustrationseries.s3.amazonaws.com/illustration2022/Artist/17+-+AI+Rinna/Rinna+-+02.jpg"
+                        },
+                        {
+                            "name": "Rinna3",
+                            "position": 3,
+                            "url": "https://illustrationseries.s3.amazonaws.com/illustration2022/Artist/17+-+AI+Rinna/Rinna+-+03.jpg"
+                        },
+                        {
+                            "name": "Rinna4",
+                            "position": 4,
+                            "url": "https://illustrationseries.s3.amazonaws.com/illustration2022/Artist/17+-+AI+Rinna/Rinna+-+04.jpg"
+                        },
+                        {
+                            "name": "Rinna5",
+                            "position": 5,
+                            "url": "https://illustrationseries.s3.amazonaws.com/illustration2022/Artist/17+-+AI+Rinna/Rinna+-+05.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 18,
+                    "name": "ESUTHIO",
+                    "twitter": "https://twitter.com/esuthio",
+                    "instagram": "https://www.instagram.com/esteo8492/",
+                    "website": "https://esuthio.artstation.com/",
+                    "email": "giftsungiven7@gmail.com ",
+                    "profilePic": "https://illustrationseries.s3.amazonaws.com/illustration2022/Artist/18+-+ESUTHIO/ESUTHIO+-+profile+pic.jpg",
+                    "tool": [
+                        {
+                            "name": "Photoshop CC"
+                        },
+                        {
+                            "name": "XP-Pen Artist 16 Pro"
+                        }
+                    ],
+                    "media": [
+                        {
+                            "name": "ESUTHIO1",
+                            "position": 1,
+                            "url": "https://illustrationseries.s3.amazonaws.com/illustration2022/Artist/18+-+ESUTHIO/ESUTHIO+-+01.jpg"
+                        },
+                        {
+                            "name": "ESUTHIO2",
+                            "position": 2,
+                            "url": "https://illustrationseries.s3.amazonaws.com/illustration2022/Artist/18+-+ESUTHIO/ESUTHIO+-+02.jpg"
+                        },
+                        {
+                            "name": "ESUTHIO3",
+                            "position": 3,
+                            "url": "https://illustrationseries.s3.amazonaws.com/illustration2022/Artist/18+-+ESUTHIO/ESUTHIO+-+03.jpg"
+                        },
+                        {
+                            "name": "ESUTHIO4",
+                            "position": 4,
+                            "url": "https://illustrationseries.s3.amazonaws.com/illustration2022/Artist/18+-+ESUTHIO/ESUTHIO+-+04.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 19,
+                    "name": "EBOSHI Sugame",
+                    "twitter": "https://twitter.com/1954love_hate_",
+                    "instagram": "https://www.instagram.com/sugameeboshi/",
+                    "website": null,
+                    "email": "sugameboshi@gmail.com",
+                    "profilePic": "https://illustrationseries.s3.amazonaws.com/illustration2022/Artist/19+-+EBOSHI+Sugame/EBOSHI+-+profile+pic.jpg",
+                    "tool": [
+                        {
+                            "name": "Procreate"
+                        },
+                        {
+                            "name": "iPad Pro"
+                        }
+                    ],
+                    "media": [
+                        {
+                            "name": "EBOSHI1",
+                            "position": 1,
+                            "url": "https://illustrationseries.s3.amazonaws.com/illustration2022/Artist/19+-+EBOSHI+Sugame/EBOSHI+-+01.jpg"
+                        },
+                        {
+                            "name": "EBOSHI2",
+                            "position": 2,
+                            "url": "https://illustrationseries.s3.amazonaws.com/illustration2022/Artist/19+-+EBOSHI+Sugame/EBOSHI+-+02.jpg"
+                        },
+                        {
+                            "name": "EBOSHI3",
+                            "position": 3,
+                            "url": "https://illustrationseries.s3.amazonaws.com/illustration2022/Artist/19+-+EBOSHI+Sugame/EBOSHI+-+03.jpg"
+                        },
+                        {
+                            "name": "EBOSHI4",
+                            "position": 4,
+                            "url": "https://illustrationseries.s3.amazonaws.com/illustration2022/Artist/19+-+EBOSHI+Sugame/EBOSHI+Sub+-+04.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 20,
+                    "name": "M Emu",
+                    "twitter": "https://twitter.com/mashimaa100pa",
+                    "instagram": "https://www.instagram.com/mashimaa100pa/",
+                    "website": null,
+                    "email": "tocchi_chi_3@yahoo.com",
+                    "profilePic": "https://illustrationseries.s3.amazonaws.com/illustration2022/Artist/20+-+M+Emu/M+Emu+-+profile+pic.jpg",
+                    "tool": [
+                        {
+                            "name": "CLIP STUDIO PAINT PRO"
+                        },
+                        {
+                            "name": "Cintique Pro 24"
+                        }
+                    ],
+                    "media": [
+                        {
+                            "name": "EMU1",
+                            "position": 1,
+                            "url": "https://illustrationseries.s3.amazonaws.com/illustration2022/Artist/20+-+M+Emu/M+Emu+-+01.jpg"
+                        },
+                        {
+                            "name": "EMU2",
+                            "position": 2,
+                            "url": "https://illustrationseries.s3.amazonaws.com/illustration2022/Artist/20+-+M+Emu/M+Emu+-+02.jpg"
+                        },
+                        {
+                            "name": "EMU3",
+                            "position": 3,
+                            "url": "https://illustrationseries.s3.amazonaws.com/illustration2022/Artist/20+-+M+Emu/M+Emu+-+03.jpg"
+                        },
+                        {
+                            "name": "EMU4",
+                            "position": 4,
+                            "url": "https://illustrationseries.s3.amazonaws.com/illustration2022/Artist/20+-+M+Emu/M+Emu+-+04.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 21,
+                    "name": "oo6 OOROKU",
+                    "twitter": "https://twitter.com/oo6____6oo",
+                    "instagram": "https://www.instagram.com/oo6____6oo/",
+                    "website": "https://oo6-oroku.tumblr.com/",
+                    "email": "oo6.006214@gmail.com",
+                    "profilePic": "https://illustrationseries.s3.amazonaws.com/illustration2022/Artist/21+-+oo6+OOROKU/OOROKU+-+profile+pic.jpg",
+                    "tool": [
+                        {
+                            "name": "Procreate"
+                        },
+                        {
+                            "name": "Ibis Paint"
+                        },
+                        {
+                            "name": "iPad Pro"
+                        }
+                    ],
+                    "media": [
+                        {
+                            "name": "oo61",
+                            "position": 1,
+                            "url": "https://illustrationseries.s3.amazonaws.com/illustration2022/Artist/21+-+oo6+OOROKU/OOROKU+-+01.jpg"
+                        },
+                        {
+                            "name": "oo62",
+                            "position": 2,
+                            "url": "https://illustrationseries.s3.amazonaws.com/illustration2022/Artist/21+-+oo6+OOROKU/OOROKU+-+02.jpg"
+                        },
+                        {
+                            "name": "oo63",
+                            "position": 3,
+                            "url": "https://illustrationseries.s3.amazonaws.com/illustration2022/Artist/21+-+oo6+OOROKU/OOROKU+-+03.jpg"
+                        },
+                        {
+                            "name": "oo64",
+                            "position": 4,
+                            "url": "https://illustrationseries.s3.amazonaws.com/illustration2022/Artist/21+-+oo6+OOROKU/OOROKU+-+04.jpg"
+                        },
+                        {
+                            "name": "oo65",
+                            "position": 5,
+                            "url": "https://illustrationseries.s3.amazonaws.com/illustration2022/Artist/21+-+oo6+OOROKU/OOROKU+-+05.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 22,
+                    "name": "OKUBO",
+                    "twitter": "https://twitter.com/terakubonnu",
+                    "instagram": null,
+                    "website": null,
+                    "email": "terakubonnu@gmail.com",
+                    "profilePic": "https://illustrationseries.s3.amazonaws.com/illustration2022/Artist/22+-+OKUBO/OKUBO+-+profile+pic.png",
+                    "tool": [
+                        {
+                            "name": "CLIP STUDIO PAINT PRO"
+                        },
+                        {
+                            "name": "Cintiq 24HD"
+                        }
+                    ],
+                    "media": [
+                        {
+                            "name": "OKUBO1",
+                            "position": 1,
+                            "url": "https://illustrationseries.s3.amazonaws.com/illustration2022/Artist/22+-+OKUBO/OKUBO+-+01.gif"
+                        },
+                        {
+                            "name": "OKUBO2",
+                            "position": 2,
+                            "url": "https://illustrationseries.s3.amazonaws.com/illustration2022/Artist/22+-+OKUBO/OKUBO+-+02.gif"
+                        }
+                    ]
+                },
+                {
+                    "id": 23,
+                    "name": "OKA Yuuri",
+                    "twitter": "https://twitter.com/blackistat2",
+                    "instagram": "https://www.instagram.com/blackistat2/",
+                    "website": "uriokablack2.wixsite.com/okayuuri",
+                    "email": "uriokablack2@gmail.com",
+                    "profilePic": "https://illustrationseries.s3.amazonaws.com/illustration2022/Artist/23+-+OKA+Yuuri/OKA+Yuuri+-+profile+pic.jpg",
+                    "tool": [
+                        {
+                            "name": null
+                        }
+                    ],
+                    "media": [
+                        {
+                            "name": "OKA1",
+                            "position": 1,
+                            "url": "https://illustrationseries.s3.amazonaws.com/illustration2022/Artist/23+-+OKA+Yuuri/OKA+Yuuri+-+01.jpg"
+                        },
+                        {
+                            "name": "OKA2",
+                            "position": 2,
+                            "url": "https://illustrationseries.s3.amazonaws.com/illustration2022/Artist/23+-+OKA+Yuuri/OKA+Yuuri+-+02.jpg"
+                        },
+                        {
+                            "name": "OKA3",
+                            "position": 3,
+                            "url": "https://illustrationseries.s3.amazonaws.com/illustration2022/Artist/23+-+OKA+Yuuri/OKA+Yuuri+-+03.jpg "
+                        },
+                        {
+                            "name": "OKA4",
+                            "position": 4,
+                            "url": "https://illustrationseries.s3.amazonaws.com/illustration2022/Artist/23+-+OKA+Yuuri/OKA+Yuuri+-+04.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 24,
+                    "name": "OKU",
+                    "twitter": "https://twitter.com/2964_KO",
+                    "instagram": "https://www.instagram.com/ok8656/",
+                    "website": null,
+                    "email": "oknk2964@gmail.com",
+                    "profilePic": "https://illustrationseries.s3.amazonaws.com/illustration2022/Artist/24+-+OKU/OKU+-+profile+pic.jpg",
+                    "tool": [
+                        {
+                            "name": "Procreate"
+                        },
+                        {
+                            "name": "iPad Pro"
+                        }
+                    ],
+                    "media": [
+                        {
+                            "name": "OKU1",
+                            "position": 1,
+                            "url": "https://illustrationseries.s3.amazonaws.com/illustration2022/Artist/24+-+OKU/OKU+-+01.jpg"
+                        },
+                        {
+                            "name": "OKU2",
+                            "position": 2,
+                            "url": "https://illustrationseries.s3.amazonaws.com/illustration2022/Artist/24+-+OKU/OKU+-+02.jpg"
+                        },
+                        {
+                            "name": "OKU3",
+                            "position": 3,
+                            "url": "https://illustrationseries.s3.amazonaws.com/illustration2022/Artist/24+-+OKU/OKU+-+03.jpg"
+                        },
+                        {
+                            "name": "OKU4",
+                            "position": 4,
+                            "url": "https://illustrationseries.s3.amazonaws.com/illustration2022/Artist/24+-+OKU/OKU+-+04.jpg"
+                        },
+                        {
+                            "name": "OKU5",
+                            "position": 5,
+                            "url": "https://illustrationseries.s3.amazonaws.com/illustration2022/Artist/24+-+OKU/OKU+-+05.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 25,
+                    "name": "ODA Mifuu",
+                    "twitter": "https://twitter.com/kamisukimifu",
+                    "instagram": "https://www.instagram.com/kamisukimifu/",
+                    "website": null,
+                    "email": "poyomifu@gmail.com",
+                    "profilePic": "https://illustrationseries.s3.amazonaws.com/illustration2022/Artist/25+-+ODA+Mifuu/ODA+-+profile+pic.jpg",
+                    "tool": [
+                        {
+                            "name": null
+                        }
+                    ],
+                    "media": [
+                        {
+                            "name": "ODA1",
+                            "position": 1,
+                            "url": "https://illustrationseries.s3.amazonaws.com/illustration2022/Artist/25+-+ODA+Mifuu/ODA+-+01.jpg"
+                        },
+                        {
+                            "name": "ODA2",
+                            "position": 2,
+                            "url": "https://illustrationseries.s3.amazonaws.com/illustration2022/Artist/25+-+ODA+Mifuu/ODA+-+02.jpg"
+                        },
+                        {
+                            "name": "ODA3",
+                            "position": 3,
+                            "url": "https://illustrationseries.s3.amazonaws.com/illustration2022/Artist/25+-+ODA+Mifuu/ODA+-+03.jpg"
+                        },
+                        {
+                            "name": "ODA4",
+                            "position": 4,
+                            "url": "https://illustrationseries.s3.amazonaws.com/illustration2022/Artist/25+-+ODA+Mifuu/ODA+-+04.jpg"
+                        },
+                        {
+                            "name": "ODA5",
+                            "position": 5,
+                            "url": "https://illustrationseries.s3.amazonaws.com/illustration2022/Artist/25+-+ODA+Mifuu/ODA+-+05.jpg"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
