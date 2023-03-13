@@ -3371,6 +3371,22 @@
                     ]
                 }
             ]
+        },
+        {
+            "id": 2023,
+            "title": "ILLUSTRATION 2023",
+            "coverArtist": "HANABUSHI",
+            "coverStandard": "https://illustrationseries.s3.amazonaws.com/illustration2023/Covers/ILLUSTRATION+2023+Normal+Edition.jpeg",
+            "coverSpecial": "https://illustrationseries.s3.amazonaws.com/illustration2023/Covers/ILLUSTRATION+2023+Special+Edition.jpeg",
+            "Artist": null
+        },
+        {
+            "id": 20231,
+            "title": "Illustration Scene Of Korea",
+            "coverArtist": "Zipcy",
+            "coverStandard": "https://illustrationseries.s3.amazonaws.com/illustrationSceneOfKorea/Covers/Illustration+Scene+Of+Korea.jpg",
+            "coverSpecial": null,
+            "Artist": null
         }
     ]
 }
